@@ -16,13 +16,10 @@ Outside of the academic field, I am very much in love with life and am actively 
 
 Research Interests
 ======
-·Urban Renewal: Approaches to Urban Renewal
-
-·Public art: public art interventions in space
-
-·Public Space: Market Space, Renewal of Traditional Residential Space
-
-·Symbolic expression and design: urban imagery symbols, spatial identity design
+- **Urban Renewal:** Approaches to Urban Renewal
+- **Public art:** public art interventions in space
+- **Public Space:** Market Space, Renewal of Traditional Residential Space
+- **Symbolic expression and design:** urban imagery symbols, spatial identity design
 
 Publications
 ======
