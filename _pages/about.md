@@ -24,11 +24,27 @@ Research Interests
 Publications
 ======
     <img src="Ceramic Mosaic.png" class="teaser img-fluid z-depth-1">
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+    <abbr class="badge">Ceramic Mosaic</abbr> 
+</div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="[https://arxiv.org/pdf/2002.10211.pdf](http://www.literarts.org/article/502/10.11648.j.ijla.20231103.16)">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
+    <div class="author"><strong>Wen Pei</strong></div>
+    <div class="periodical"><em>Ceramic Mosaic <strong>(Ceramic Mosaic)</strong>, May. 2023.</em></div>
+    <div class="links">
+      <a href="[https://arxiv.org/pdf/2002.10211.pdf](http://www.literarts.org/article/502/10.11648.j.ijla.20231103.16)" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/wenwen-Pei/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+  
+<br>
+
+</ol>
+</div>
 
 Site-wide configuration
 ------
