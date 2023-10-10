@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate student studying design at the North China University of Technology, and my supervisor is Prof. Qiao Qian. Before that, I graduated from Tianjin University of Technology in 2021 with a Bachelor's degree in Environmental Art Design.
+I am a postgraduate student studying design at the <a href="https://www.ncut.edu.cn/" target="_blank"> North China University of Technology, and my supervisor is Prof. Qiao Qian. Before that, I graduated from Tianjin University of Technology in 2021 with a Bachelor's degree in Environmental Art Design.
 
 My research interests are in urban regeneration and public art, which is the main research direction I conducted during my master's degree. Due to the curriculum, I usually do some design in the direction of visual communication.Recently I’ve been preparing my master's thesis and looking for a position in the following research trip.
 
