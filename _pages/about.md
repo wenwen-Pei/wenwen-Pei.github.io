@@ -17,11 +17,14 @@ Outside of the academic field, I am very much in love with life and am actively 
 Research Interests
 ======
 ·Urban Renewal: Approaches to Urban Renewal
+
 ·Public art: public art interventions in space
+
 ·Public Space: Market Space, Renewal of Traditional Residential Space
+
 ·Symbolic expression and design: urban imagery symbols, spatial identity design
 
-Getting started
+Publications
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
