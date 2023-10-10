@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,15 +9,17 @@ redirect_from:
 ---
 
 I am a postgraduate student studying design at the North China University of Technology, and my supervisor is Prof. Qiao Qian. Before that, I graduated from Tianjin University of Technology in 2021 with a Bachelor's degree in Environmental Art Design.
-My research interests are in urban regeneration and public art, which is the main research direction I conducted during my master's degree. Due to the curriculum, I usually do some design in the direction of visual communication.
-Recently I’ve been preparing my master's thesis and looking for a position in the following research trip.
 
+My research interests are in urban regeneration and public art, which is the main research direction I conducted during my master's degree. Due to the curriculum, I usually do some design in the direction of visual communication.Recently I’ve been preparing my master's thesis and looking for a position in the following research trip.
 
-A data-driven personal website
+Outside of the academic field, I am very much in love with life and am actively involved in activities that interest me, focusing on developing my hobbies; I keep swimming and have recently been trying to learn to dance.
+
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+·Urban Renewal: Approaches to Urban Renewal
+·Public art: public art interventions in space
+·Public Space: Market Space, Renewal of Traditional Residential Space
+·Symbolic expression and design: urban imagery symbols, spatial identity design
 
 Getting started
 ======
