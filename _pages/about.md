@@ -31,7 +31,7 @@ Publications
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="Ceramic Mosaic.png" class="teaser img-fluid z-depth-1">
+    <img src="https://github.com/wenwen-Pei/wenwen-Pei.github.io/blob/master/images/Ceramic%20Mosaic.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IJLA</abbr>
   </div>
 
