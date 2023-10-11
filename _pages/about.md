@@ -37,21 +37,14 @@ Publications
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="http://www.literarts.org/article/502/10.11648.j.ijla.20231103.16">Application of Ceramic Mosaic Art in Architectural Decoration — Taking Park Güell as an Example</a></div>
     <div class="author">Qiao Qian, <strong>Wen Pei</strong>, Yang Huiyu & Li Weijia.
-    <div class="periodical"><em>International Journal of Literature and Arts<strong>, May. 2023.</em></div>
+    <div class="periodical"><em>International Journal of Literature and Arts<strong>, May. 2023.
     <div class="links">
       <a href="http://article.literarts.org/pdf/10.11648.j.ijla.20231103.16.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
   </div>
-</div>
-</li>
-  
-<br>
 
-</ol>
-</div>
 
 
 
