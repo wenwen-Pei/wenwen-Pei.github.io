@@ -33,8 +33,7 @@ Publications
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://github.com/wenwen-Pei/wenwen-Pei.github.io/blob/master/images/Ceramic%20Mosaic.png" >
-
+<img src="https://github.com/wenwen-Pei/wenwen-Pei.github.io/blob/master/images/Ceramic%20Mosaic.png" >
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://github.com/wenwen-Pei/wenwen-Pei.github.io/blob/master/images/Ceramic%20Mosaic.png" target="_blank">Application of Ceramic Mosaic Art in Architectural Decoration — Taking Park Güell as an Example</a></div>
     <div class="author">Qiao Qian, <strong>Wen Pei</strong>, Yang Huiyu & Li Weijia.
