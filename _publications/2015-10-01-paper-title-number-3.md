@@ -9,4 +9,4 @@ paperurl: 'http://www.literarts.org/article/502/10.11648.j.ijla.20231103.16'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://www.literarts.org/article/502/10.11648.j.ijla.20231103.16)
+[Download paper here](https://github.com/wenwen-Pei/wenwen-Pei.github.io/blob/master/files/10.11648.j.ijla.20231103.16.pdf)
